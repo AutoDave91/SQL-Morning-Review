@@ -1,0 +1,62 @@
+1. Go to the crocs website at www.crocs.com and click on the mens category
+
+2. Imagine you have to make a product table which holds data about Crocs shoes
+
+3. With the person next to you, write SQL statement which creates a table. Think about what should and shouldn't be included as columns. When you finish, slack me your CREATE TABLE statement.
+
+4. Now that we have a table, let's practice writing some realistic queries.
+
+
+QUERIES PRACTICE 
+
+1. We forgot to add a few columns we need to our table. Write a sql statement to add columns for the following categories.
+
+    1. style
+    2. itemnum
+    3. details
+    4. rating
+
+
+
+2. We want to add new products to our table. Write SQL statements that insert new products and also insert data about the name, category, and price. Choose any shoe from the crocs website based on these categories:
+
+    1. women
+    2. girls
+    3. boys
+    4. women
+
+
+
+3. We want to show the range of prices of our products. Write a query that returns all the products in order by price, lowest to highest.
+
+
+
+4. We want to do a sale on items that cost 39.99. Write a query that brings back all product items that cost 39.99. 
+
+
+
+5. We need to fill in the empty columns that we created earlier. Write a statement that finds the product you want to edit and adds data to the missing fields. Choose a number based on your row (even or odd). YOU WILL NEED TO LOOK UP HOW TO DO THIS. (Slack me your response). 
+
+
+
+
+6. We want to pull data for each category (mens, womens, girls, boys). Write a query that pulls back all the shoes from each separate category. 
+    
+    1. Women
+    2. Girls
+    3. Boys
+    4. Men
+
+7. We want to show off our best rated crocs. Write a query that gets all crocs rated higher than 4.5.
+
+8. We want to do a promotion of our Classic items. Write a query that gets all crocs that have ‘Classic’ in the name.
+
+9. We want to do a random sale of clogs. Write a query that gets all clogs in reverse alphabetical order. We only want ten items.
+
+10. We decided we don’t need the details column anymore. Write a statement that gets rid of the details column.
+
+11. We need data about mens shoes. We want to show just their name and price. Write a query that gets all mens shoes, showing only their name and price.
+
+12. We want to find the lowest rated product so we can fix our marketing related to that product. Write a query that shows just the name, category, price, rating. Show only that one lowest rated item.
+
+13. Work with a partner. Think of a few other realistic situations that we might need to write queries for. Come up with the situation and the query (base it on the table we’ve been working with). Slack me your ideas and be ready to discuss.
